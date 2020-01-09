@@ -1,0 +1,88 @@
+html {
+    margin: 0px auto;
+}
+
+#green {
+    color: green
+}
+
+#ingredient_title {
+    border-bottom:1px solid black
+}
+
+#include {
+    border:1px solid black;
+    padding:10px;
+    height: 300px;
+    overflow-y:scroll;
+    overflow-x:hidden; 
+}
+
+#red {
+    color: red
+}
+
+#exclude {
+    border:1px solid black;
+    padding:10px;
+    height: 300px;
+    overflow-y:scroll;
+    overflow-x:hidden; 
+}
+
+#search_div {
+    border:1px solid white;
+    padding:10px;
+    margin-top:20px;
+    text-align:center
+}
+
+#submit {
+    border:1px solid black;
+    width:85%;
+    padding:20px;
+    font-size:25px;
+    border-radius:10px;
+    margin-bottom:5px;
+}
+
+#reset {
+    border:1px solid black;
+    width:85%;
+    padding:20px;
+    font-size:25px;
+    border-radius:10px;
+    margin-top:5px;
+}
+
+#name_title {
+    margin-bottom: 10px;
+    border-bottom: 1px solid black;
+}
+
+#flex_res {
+    display:flex;
+    justify-content:center;
+    border:1px solid white;
+    padding:10px;
+}
+
+#name_list {
+    border:1px solid black;
+    padding:10px;
+    margin:5px;
+    height:300px;
+    width:45%;
+    overflow-y:scroll;
+    overflow-x:hidden; 
+}
+
+#name_found {
+    border:1px solid black;
+    padding:10px;
+    margin:5px;
+    height:300px;
+    width:45%;
+    overflow-y:scroll;
+    overflow-x:hidden; 
+}
